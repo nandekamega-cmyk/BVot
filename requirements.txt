@@ -1,0 +1,8 @@
+aiogram==2.25.1
+python-dotenv
+schedule
+openai
+aiohttp
+requests
+httpx
+pydub
