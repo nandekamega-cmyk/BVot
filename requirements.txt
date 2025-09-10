@@ -1,8 +1,6 @@
-aiogram==2.25.1
+aiogram==3.*
 python-dotenv
-schedule
 openai
-aiohttp
 requests
 httpx
 pydub
